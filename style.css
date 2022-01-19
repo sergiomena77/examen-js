@@ -1,0 +1,43 @@
+h1{
+    background-color: black;
+    color:gold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#arcas{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+    
+}
+#belmonte{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+#huete{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+#LaAlmarcha{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+#alarcon{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+#sanclemente{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+#sisante{
+    border: solid 1px black;
+    box-shadow: 6px 6px 12px ;
+}
+body{
+    background-color:rgb(106, 106, 207)
+}
+h2{
+    font-family: sans-serif;
+    background-color: rgb(38, 125, 160);
+
+
+}
